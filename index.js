@@ -1,6 +1,10 @@
-animal = ""
+let animal = "cat"
+
+// Feel free to move things around!
+const two = 2
 
 function myAnimal() {
+  let animal = "dog"
   return animal
 }
 
@@ -13,7 +17,4 @@ function yourAnimal() {
 
 function add2(n) {
   return n + two
-
-  // Feel free to move things around!
-  two = 2
 }
